@@ -1,10 +1,6 @@
 # Ecrire noms promo 2024
 [Fall Omar](https://github.com/omar218)
 
-
-
-
-
 # Exercice 
 
 [Joel Aholou](https://github.com/ahjoel)
